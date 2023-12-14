@@ -1,2 +1,2 @@
 # Quiz-game
-This is a quiz game mini project created with python
+This is a simple quiz game mini project created with python. It asks random questions 
