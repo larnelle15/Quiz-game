@@ -1,0 +1,10 @@
+Are lists mutable in python? 
+Can a variable name have underscores? 
+Are tuples immutable in python? 
+Do floats have decimal points? 
+Does the break statement enable continuation past the for loop body? 
+Is a string a sequence of characters? 
+Is a substring a subset of a string? 
+Are data structures different ways to organize and store data? 
+Is a list a data type? 
+is a dictionary an ordered collection of key-value pairs? 
