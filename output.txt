@@ -1,0 +1,25 @@
+Welcome to the python fundamental topic game!
+Do you want play? yes
+Ok, LET'S PLAY :) !
+Are lists mutable in python? yes
+CORRECT!
+Can a variable name have underscores? yes
+CORRECT!
+Are tuples immutable in python? yes
+CORRECT!
+Do floats have decimal points? yes
+CORRECT!
+Does the break statement enable continuation past the for loop body? yes
+CORRECT!
+Is a string a sequence of characters? yes
+CORRECT!
+Is a substring a subset of a string? yes
+CORRECT!
+Are data structures different ways to organize and store data? yes
+CORRECT!
+Is a list a data type? yes
+CORRECT!
+is a dictionary an ordered collection of key-value pairs? no
+wrong
+You got 90 out of 100
+You got 9.0 out of 10
